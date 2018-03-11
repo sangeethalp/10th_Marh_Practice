@@ -1,2 +1,3 @@
-this is training class
+this is Edureka training class
+
 
